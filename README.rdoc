@@ -12,3 +12,5 @@ You can then use this "rails-crrc" command instead of the traditional "rails" on
   rails-crrc base store
 
 That will generate a Rails app using the base.rb template found here.
+
+For information about adding to the template check this out: http://m.onkey.org/2008/12/4/rails-templates
